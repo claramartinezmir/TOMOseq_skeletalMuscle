@@ -10,4 +10,4 @@ Contains all python notebooks required to filter and normalize tomo-seq data. Ad
 
 2. MSI
 
-Contains all python notebooks required to filter and normalize MSI data.
+Contains all python notebooks required to filter and normalize MSI data. Additionally, code is provided for integration of MSI data with tomo-seq data.
