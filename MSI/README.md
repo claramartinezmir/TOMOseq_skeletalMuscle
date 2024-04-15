@@ -7,7 +7,7 @@ This repository contains the collection of scripts and python notebooks used to 
 
 * 3 tomo-seq replicates of tibialis anterior muscles
 
-All MSI datasets can be found in tthe ProteomeXchange Consortium via the PRIDE partner repository with the dataset identifier PXD048809 [PXD048809](https://www.ebi.ac.uk/pride/profile/reviewer_pxd048809)
+All MSI datasets can be found in tthe ProteomeXchange Consortium via the PRIDE partner repository with the dataset identifier [PXD048809](https://www.ebi.ac.uk/pride/profile/reviewer_pxd048809)
 
 
 ### Organization of notebooks in this repository
