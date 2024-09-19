@@ -1,5 +1,5 @@
 
-DOI: 10.5281/zenodo.13789405
+[![DOI](https://zenodo.org/badge/760479223.svg)](https://zenodo.org/doi/10.5281/zenodo.13789404)
 
 # Skeletal muscle spatial multi-omics analysis
 
