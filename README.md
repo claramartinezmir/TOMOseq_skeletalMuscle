@@ -1,3 +1,6 @@
+
+DOI: 10.5281/zenodo.13789405
+
 # Skeletal muscle spatial multi-omics analysis
 
 This repository contains the collection of scripts and python notebooks used to perform the spatial transcriptomics and spatial metabolomics analysis presented in [C. Martinez Mir et al](). 
