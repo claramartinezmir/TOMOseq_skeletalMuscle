@@ -3,7 +3,7 @@
 
 # Skeletal muscle spatial multi-omics analysis
 
-This repository contains the collection of scripts and python notebooks used to perform the spatial transcriptomics and spatial metabolomics analysis presented in [C. Martinez Mir et al](). 
+This repository contains the collection of scripts and python notebooks used to perform the spatial transcriptomics and spatial metabolomics analysis presented in [C. Martinez Mir et al](https://www.nature.com/articles/s42003-024-06949-1). 
 
 The respository is organized in two subfolders:
 
